@@ -135,6 +135,9 @@ Here the below configurations.
 6. **control** - Enable options to ADD, EDIT and DELETE the nodes. *[default=false]*
 7. **nodeHeight** - Must be set in vertical mode. nodeHeight must be a sum of div.node height, paddings, margins and borders
 For example in this css
+
+******
+
 .jOrgChart .node {
   background-color 		: rgba(53, 115, 156, 0.7);
   width                 : 150px;
@@ -153,6 +156,9 @@ For example in this css
 .vertical .node {
   margin               : 4px 0;
 }
+
+******
+
 nodeHeight=height (30px) + padding (4px*2) + border (1px*2) + margin (4px*2) = 30px+8px+2px+8px=48px
 So, in this case nodeHeight must be set to 48 (without 'px')
 
