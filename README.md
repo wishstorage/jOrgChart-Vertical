@@ -138,6 +138,7 @@ For example in this css
 
 ******
 -----
+
 ###The CSS
 .jOrgChart .node {
   background-color 		: rgba(53, 115, 156, 0.7);
@@ -157,6 +158,7 @@ For example in this css
 .vertical .node {
   margin               : 4px 0;
 }
+
 -----
 ******
 
