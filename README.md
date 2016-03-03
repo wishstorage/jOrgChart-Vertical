@@ -137,7 +137,8 @@ Here the below configurations.
 For example in this css
 
 ******
-
+-----
+###The CSS
 .jOrgChart .node {
   background-color 		: rgba(53, 115, 156, 0.7);
   width                 : 150px;
@@ -156,7 +157,7 @@ For example in this css
 .vertical .node {
   margin               : 4px 0;
 }
-
+-----
 ******
 
 nodeHeight=height (30px) + padding (4px*2) + border (1px*2) + margin (4px*2) = 30px+8px+2px+8px=48px
