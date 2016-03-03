@@ -119,7 +119,7 @@ This call will append the markup for the OrgChart to the `<body>` element by def
 
 ##Demo Page
 
-Demo of the code is available here 
+Demo of the code is unavailable. May be someone do it!? Write me and I paste your link here 
 
 -----
 
