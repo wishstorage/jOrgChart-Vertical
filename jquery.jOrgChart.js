@@ -1,13 +1,12 @@
 /**
  * jQuery org-chart/tree plugin.
  *
- * Author: Wes Nolte
- * http://twitter.com/wesnolte
+ * Author: Nikolay Zubarev
  *
  * Based on the work of Mark Lee
  * http://www.capricasoftware.co.uk
  *
- * Copyright (c) 2011 Wesley Nolte
+ * Copyright (c) 2015 Nikolay Zubarev
  * Dual licensed under the MIT and GPL licenses.
  *
  */
