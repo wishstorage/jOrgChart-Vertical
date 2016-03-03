@@ -140,24 +140,43 @@ For example in this css
 -----
 
 ###The CSS
+
 .jOrgChart .node {
+
   background-color 		: rgba(53, 115, 156, 0.7);
+  
   width                 : 150px;
+  
   height                : 30px;
+  
   z-index 				: 10;
+  
   border-radius: 2px;
+  
   color: #fff;
+  
   font-family: Arial;
+  
   font-size: 10px;
+  
   font-weight: bold;
+  
   letter-spacing: 1px;
+  
   padding: 4px 8px;
+  
   text-transform: uppercase;
+  
   border: 1px solid white;
+  
 }
+
 .vertical .node {
+
   margin               : 4px 0;
+  
 }
+
 
 -----
 ******
